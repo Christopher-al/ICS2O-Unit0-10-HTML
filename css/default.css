@@ -1,0 +1,39 @@
+.imagine{
+font-size: 30px;
+text-align: center;
+font-family: cursive;
+  position: fixed;
+  padding: 5px;
+  background-color: lightblue;
+  border: 2px solid blue;
+}
+
+.minion{
+  position: absolute;
+  top: 2000px;
+  left: 300px;
+  width: 500px;
+  height: 333px;
+  border: 3px solid #73AD21;
+}
+
+.pp{
+  position: absolute;
+  top: 150px;
+  background-color: yellow;
+  width: 150px;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 0px;
+  color: Tomato;
+  float: left;
+}
+
+.tiny{
+  position: absolute;
+  top: 150px;
+  left: 300px;
+  width: 250px;
+  height: 178px;
+  border: 3px solid blue;
+}
